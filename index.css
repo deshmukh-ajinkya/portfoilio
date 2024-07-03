@@ -111,7 +111,6 @@ body {
 .button-container {
     padding: 24px;
     border-radius: 12px;
-    border: 1px solid gray;
     max-width: 250px;
     height: 250px;
     display: flex;
@@ -119,6 +118,7 @@ body {
     justify-content: flex-end;
     align-items: flex-start;
     margin-top: 12px;
+    box-shadow: 0px 0px 18px 0px rgba(0, 0, 0, 0.3);
 }
 
 .visit-now {
